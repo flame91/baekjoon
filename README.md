@@ -1,3 +1,3 @@
 # baekjoon
 
-백준 https://www.acmicpc.net/
+ㆍ백준 마이페이지: https://www.acmicpc.net/user/flame91
